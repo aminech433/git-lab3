@@ -1,1 +1,2 @@
 Login form with input validation
+Validation of empty fields
